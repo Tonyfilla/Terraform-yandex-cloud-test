@@ -8,12 +8,15 @@ https://yandex.cloud/ru/docs/tutorials/infrastructure-management/terraform-quick
 
 Воспроизведение:
 
- make yandextoken
- terraform init
- terraform plan
- terraform apply
- ssh ubuntu@your_ip
- terraform destroy
+```bash
+$ make yandextoken
+$ terraform init
+$ terraform plan
+$ terraform apply
+$ ssh ubuntu@terraform_output
+$ terraform destroy
+```
+
 
  С чем были сложности
 
