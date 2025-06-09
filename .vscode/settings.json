@@ -1,0 +1,12 @@
+{
+  "terraform.languageServer": {
+    "enabled": true,
+    "pathToBinary": "terraform-ls"
+  },
+  "editor.formatOnSave": true,
+  "[terraform]": {
+    "editor.defaultFormatter": "hashicorp.terraform"
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true
+}

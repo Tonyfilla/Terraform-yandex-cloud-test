@@ -1,0 +1,7 @@
+terraform.tfvars
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/yandex-cloud/yandex/0.142.0/darwin_arm64/terraform-provider-yandex_v0.142.0
+.terraform/providers/registry.terraform.io/yandex-cloud/yandex/0.142.0/darwin_arm64/README.md
+.terraform/providers/registry.terraform.io/yandex-cloud/yandex/0.142.0/darwin_arm64/LICENSE
+.terraform/providers/registry.terraform.io/yandex-cloud/yandex/0.142.0/darwin_arm64/CHANGELOG.md
+terraform.tfstate
